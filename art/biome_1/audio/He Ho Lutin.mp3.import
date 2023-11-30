@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c06abrkqrgyhj"
+path="res://.godot/imported/He Ho Lutin.mp3-557151a3c18076b52bc0b0d724935cea.mp3str"
+
+[deps]
+
+source_file="res://art/biome_1/audio/He Ho Lutin.mp3"
+dest_files=["res://.godot/imported/He Ho Lutin.mp3-557151a3c18076b52bc0b0d724935cea.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4

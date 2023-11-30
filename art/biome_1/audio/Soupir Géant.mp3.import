@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bkwlnfuqbufh0"
+path="res://.godot/imported/Soupir Géant.mp3-30ad571197fb73740c1e0fb87f36dd53.mp3str"
+
+[deps]
+
+source_file="res://art/biome_1/audio/Soupir Géant.mp3"
+dest_files=["res://.godot/imported/Soupir Géant.mp3-30ad571197fb73740c1e0fb87f36dd53.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

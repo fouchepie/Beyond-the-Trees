@@ -1,0 +1,439 @@
+2a60927148abd1d33b818b535e306557
+::res://::1701369640
+biome_1.gd::GDScript::-1::1701207692::0::1::::<>Node2D<>::
+biome_1.tscn::PackedScene::7591174802249130021::1701369327::0::1::::<><>::res://biome_1.gd<>uid://3comi5bf8nvl::::res://art/biome_1/audio/Game Jam Maze 2.mp3<>uid://c06abrkqrgyhj::::res://art/biome_1/audio/He Ho Lutin.mp3
+chalet.tscn::PackedScene::458115328350416511::1701369328::0::1::::<><>::uid://c3ivr6uvrvks8::::res://art/biome_1/scene_lutin/Chalet-1.png<>uid://d384jshv8gmra::::res://art/biome_1/Smoke animation.png
+elf_camera.gd::GDScript::-1::1700085826::0::1::::<>Camera2D<>::
+elf_player.gd::GDScript::-1::1700866443::0::1::::<>CharacterBody2D<>::
+elf_player.tscn::PackedScene::8575680165968543728::1701369327::0::1::::<><>::res://elf_player.gd<>uid://brdwq0xysn5h1::::res://art/biome_1/scene_lutin/Front Walk Lutin.png<>uid://b5104422n1ph5::::res://art/biome_1/scene_lutin/Back Walk Lutin.png<>uid://ckp4x8k6xgsc5::::res://art/biome_1/Right Walk Lutin.png<>uid://bjo1v73xo6u1w::::res://art/biome_1/scene_lutin/Idle Lutin.png<>uid://cqibnuj1b8nbo::::res://art/morris_roman_1/MorrisRomanBlackAlt.otf<>uid://cu41t670chfcd::::res://art/biome_1/audio/Bruits de pas feuillages.mp3
+elf_scene.tscn::PackedScene::4303852302434298360::1701369327::0::1::::<><>::uid://bcosual5tn2vb::::res://art/biome_1/scene_lutin/Woods tilemap v2.png<>uid://dugeg1rwbberg::::res://elf_player.tscn<>uid://d1hkfg400pr34::::res://art/biome_1/scene_lutin/Woods tilemap v3.png<>res://elf_camera.gd<>uid://dh8shf7sx7gwn::::res://art/biome_1/scene_lutin/Cloud animation.png<>uid://cytnq8fctkcc1::::res://goggles.tscn<>uid://gr6de7wohwnv::::res://chalet.tscn<>uid://dnh3sp0rgmg4r::::res://falling_tree.tscn<>uid://btinirxbrbua2::::res://art/biome_1/scene_lutin/audio/Ambiance_elf_maze.mp3
+end_scene.tscn::PackedScene::2003683796774795295::1701369328::0::1::::<><>::uid://dgc2lr8c1govf::::res://art/end_cutscene/Fond_j.png<>uid://esvtllxw42ec::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0001.png<>uid://cwini16dk51k8::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0002.png<>uid://caldovyw74nq3::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0003.png<>uid://20j5bdseq76a::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0004.png<>uid://c8dursmxa2vwi::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0005.png<>uid://biio0542uq36r::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0006.png<>uid://byhita4u8gbm::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0007.png<>uid://cdtga4m77tbdr::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0008.png<>uid://bwriyen5jfsgl::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0009.png<>uid://c11yingi8qnru::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0010.png<>uid://el3f0wsberwn::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0011.png<>uid://fuxg5cv6g86t::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0012.png<>uid://dhxhfpxltyd3e::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0013.png<>uid://dpythrked7qd8::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0014.png<>uid://bmoh63nbmg1vs::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0015.png<>uid://cwj5b1m546uiw::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0016.png<>uid://ceu6rob6kloc1::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0017.png<>uid://cnblaq1mnd6m3::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0018.png<>uid://d2va4jbfepwdx::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0019.png<>uid://brxt7jcgo8gws::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0020.png<>uid://d1e1o2452meyk::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0021.png<>uid://n67e0httjxm::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0022.png<>uid://de7bm7g8u373u::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0023.png<>uid://b8ed13luioup7::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0024.png<>uid://c0avxrwudhhn4::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0025.png<>uid://njh5t3r4y3uc::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0026.png<>uid://bbl28xosf15gs::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0027.png<>uid://dl7n8nu81jd34::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0028.png<>uid://cvxpxmynsly2e::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0029.png<>uid://2cdwlcjkovbp::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0030.png<>uid://strg3kdjga8p::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0031.png<>uid://fj400bcb0r1v::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0032.png<>uid://b5n85yussxvnv::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0033.png<>uid://dfaygxktqhv2j::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0034.png<>uid://qo7vy3tathfy::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0035.png<>uid://4jlkoufqxfud::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0036.png<>uid://cg853innrfitt::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0037.png<>uid://roxbmd5i7bwl::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0038.png<>uid://efaapfodadnt::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0039.png<>uid://h2rui2plu5ut::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0040.png<>uid://qx23pvqjpoa::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0041.png<>uid://bwr07a5e5u837::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0042.png<>uid://pef6flhr08af::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0043.png<>uid://b8vot131byyca::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0044.png<>uid://ciy2kdu6igc3t::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0045.png<>uid://b2h33p3rkdnr6::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0046.png<>uid://1y6sch03igt5::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0047.png<>uid://bxf4wcphab6tl::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0048.png<>uid://dcm1tefort7ct::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0049.png<>uid://k7asyb0ipdiu::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0050.png<>uid://b73vkdei1rlwf::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0051.png<>uid://c0ukwvocrd4wp::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0052.png<>uid://b06xeqoe2viwq::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0053.png<>uid://urocjugr0g3d::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0054.png<>uid://bwgoliuvmde2u::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0055.png<>uid://bqu0t65axtfqq::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0056.png<>uid://ciq8pj01oku1k::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0057.png<>uid://tvbsjibqxbfu::::res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0058.png<>uid://cepa1n68gw6cn::::res://art/biome_1/scene_geant/Cloud passing by.png<>uid://dyf5q0vsyrby8::::res://art/title_scene/audio/MAP Game jam v3.mp3<>uid://bjvpup0lp6pho::::res://art/title_scene/audio/Vent et oiseaux game jam v2.mp3<>uid://cqibnuj1b8nbo::::res://art/morris_roman_1/MorrisRomanBlackAlt.otf
+export_presets.cfg::TextFile::-1::1701297865::0::1::::<><>::
+falling_tree.gd::GDScript::-1::1701203377::0::1::::<>Area2D<>::
+falling_tree.tscn::PackedScene::8087900709991154083::1701369328::0::1::::<><>::uid://djc24qfxsrl3::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0001.png<>res://falling_tree.gd<>uid://duvvgdcipm3kr::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0002.png<>uid://bupm7owie7ri5::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0003.png<>uid://b6ff68hree31b::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0004.png<>uid://0uxdtiw4jr5u::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0005.png<>uid://bt8py7pt7qmxw::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0006.png<>uid://ctui8r5cjogk::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0007.png<>uid://2sstr2dmle3p::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0008.png<>uid://crtildla1ep1u::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0009.png<>uid://cild1bwafcy3t::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0010.png<>uid://k6mykfnjocww::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0011.png<>uid://n7jduwi4rqna::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0012.png<>uid://ojmsmt2e23y2::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0013.png<>uid://nfq8t6donkuc::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0014.png<>uid://d3h4mxpx4ivci::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0015.png<>uid://cyqwarmv4isy1::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0016.png<>uid://ycg7dx8500a6::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0017.png<>uid://clgy1y4tkgedo::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0018.png<>uid://drf6lskqec5cs::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0019.png<>uid://d0edhdo3qomi8::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0020.png<>uid://boi0eoefknedh::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0021.png<>uid://c50telgulhmcj::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0022.png<>uid://dl8783qb0sg11::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0023.png<>uid://qq2ej20f04if::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0024.png<>uid://tag50vp870sa::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0025.png<>uid://dclw7eff8jme3::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0026.png<>uid://3wtqje4d1ned::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0027.png<>uid://ch6cisvpbhojn::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0028.png<>uid://b1luyc0fn35eg::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0029.png<>uid://kmufyjcktiyb::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0030.png<>uid://b6uu12dwfyvm4::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0031.png<>uid://bre57v5acqnhp::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0032.png<>uid://cd285nx8amdpi::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0033.png<>uid://d23j2x0kn2b7n::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0034.png<>uid://de203oreu8hpy::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0035.png<>uid://rdm0la30d1fs::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0036.png<>uid://bcufn36k0f8sx::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0037.png<>uid://dt0kmgbhh33uu::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0038.png<>uid://pqs5lqxqhnh::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0039.png<>uid://eh1qs138ylbi::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0040.png<>uid://j3kq1xuttw7q::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0041.png<>uid://bkhafygnldcee::::res://art/biome_1/scene_lutin/Falling tree/Tree falls0042.png<>uid://dtlqi14gyv1a0::::res://art/biome_1/scene_lutin/audio/Arbre_qui_tombe.mp3
+giant_camera.gd::GDScript::-1::1700085794::0::1::::<>Camera2D<>::
+giant_scene.gd::GDScript::-1::1701283051::0::1::::<>Node2D<>::
+giant_scene.tscn::PackedScene::6828805390209361827::1701369328::0::1::::<><>::uid://b7svfc3aq1mwm::::res://art/biome_1/scene_geant/Woods Giant Sunset.png<>res://giant_scene.gd<>res://giant_camera.gd<>uid://bdxhx46ql50ud::::res://art/biome_1/scene_geant/Cloud animation géant.png<>uid://d384jshv8gmra::::res://art/biome_1/Smoke animation.png<>uid://bg0bc8ldla4et::::res://art/biome_1/scene_geant/Mini Lutin Idle.png<>uid://bg1y8rsg3bhqn::::res://art/biome_1/scene_geant/Main géant.png<>uid://bdm3621xu3qdr::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0001.png<>uid://bj3hctgrrxay0::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0002.png<>uid://b7y8vje3cxvyw::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0003.png<>uid://bbxit6yvi7lv6::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0004.png<>uid://gxhvujl7vf4g::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0005.png<>uid://doyg01jvjf8p8::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0006.png<>uid://24g6m7cilhpe::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0007.png<>uid://dmyuosrpoky2v::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0008.png<>uid://cbmj6o778uhot::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0009.png<>uid://cd22ga28dqwt4::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0010.png<>uid://dml3jpsv7b15q::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0011.png<>uid://bde0aau0eit7l::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0012.png<>uid://buhuhuof2tlic::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0013.png<>uid://d02h6tqphwmpp::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0014.png<>uid://dqa76md3oo4ss::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0015.png<>uid://dhde1aqce0cnr::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0016.png<>uid://uschrbfrruj8::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0017.png<>uid://cyfgkrf77jryt::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0018.png<>uid://cnk1mra7kr7tn::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0019.png<>uid://d1agv6j3mb8oq::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0020.png<>uid://dghfdvtp0adsh::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0021.png<>uid://b12ew6sdvf7vl::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0022.png<>uid://hn12nrqit27t::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0023.png<>uid://b01255a0eptrg::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0024.png<>uid://cu2s7a21tdlx5::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0025.png<>uid://ctgdci2move8y::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0026.png<>uid://eg4iq531errq::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0027.png<>uid://bkq4wuvoswfjr::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0028.png<>uid://c8m4cgjfmdfxs::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0029.png<>uid://d35l2u6dln0l6::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0030.png<>uid://ch286bn5klalt::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0031.png<>uid://chq34fndidhsy::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0032.png<>uid://cke74bia3p6po::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0033.png<>uid://b5p6rut0aaojf::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0034.png<>uid://mgyytnge488t::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0035.png<>uid://cjppaljl7jro1::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0036.png<>uid://b51ke2xh2mr61::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0037.png<>uid://bt8a5s2gq3nl3::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0038.png<>uid://n6uf7atnd60i::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0039.png<>uid://24v5qo2ksoab::::res://art/biome_1/scene_geant/Géant prend arbre/Géant prend arbre0040.png<>uid://c06abrkqrgyhj::::res://art/biome_1/audio/He Ho Lutin.mp3<>uid://cyqrjsxyw5xe3::::res://art/biome_1/scene_geant/audio/Ambiance_giant_maze.mp3<>uid://cal3sidk2ahcc::::res://mini_falling_tree.tscn<>uid://cepa1n68gw6cn::::res://art/biome_1/scene_geant/Cloud passing by.png
+goggles.tscn::PackedScene::6497416426745790950::1701369328::0::1::::<><>::uid://bqnnjyb1miv18::::res://art/biome_1/scene_lutin/Lunettes 395.png
+main_scene.gd::GDScript::-1::1701203214::0::1::::<>Node2D<>::
+main_scene.tscn::PackedScene::7629660946668205573::1701369326::0::1::::<><>::res://main_scene.gd<>uid://bjdvu0673jnmo::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0001.png<>uid://yad43dvloqeh::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0002.png<>uid://c76ta5l445x0p::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0003.png<>uid://cuh55ii5s87ke::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0004.png<>uid://ch4hxq4d1hi44::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0005.png<>uid://bj73nbtuut4po::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0006.png<>uid://km0fsrolm4q5::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0007.png<>uid://c1px1ipsdf3jr::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0008.png<>uid://d4k6y5grvqq4l::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0009.png<>uid://bgfn4lwuhetpr::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0010.png<>uid://bg1g4tr1u38cp::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0011.png<>uid://dq432ritut0ys::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0012.png<>uid://cggirax1uts3t::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0013.png<>uid://2ns2w2q0p3aw::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0014.png<>uid://cied43mws5rfy::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0015.png<>uid://bikwwbypnaecc::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0016.png<>uid://bcpn2do2fktyl::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0017.png<>uid://dqgxaov3qm8w8::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0018.png<>uid://0ofl3satr8uy::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0019.png<>uid://ggkqcoa56h00::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0020.png<>uid://cqjg0jbwssnos::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0021.png<>uid://bxteujfg4yryb::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0022.png<>uid://dfdorb64x2jaj::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0023.png<>uid://qef47njh6d0::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0024.png<>uid://cx683hfnnegx7::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0025.png<>uid://dkfooihqy7duk::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0026.png<>uid://c73u4ncxcg6ro::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0027.png<>uid://dqehlhl44sqi7::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0028.png<>uid://dcn5rqh7dyfgj::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0029.png<>uid://b88pqwxtjunty::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0030.png<>uid://bbs8agof006uo::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0031.png<>uid://bluukajx6jff3::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0032.png<>uid://cgmd3ir8an7f::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0033.png<>uid://enp3boycq365::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0034.png<>uid://dplkvlk1cdcaa::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0035.png<>uid://b1xqi26i7mdfb::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0036.png<>uid://bmly041knp300::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0037.png<>uid://cukhr6gv18ej7::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0038.png<>uid://cvaxjj68oi5yo::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0039.png<>uid://bsywcigailkvd::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0040.png<>uid://bw5jmvart7fbw::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0041.png<>uid://bea3weyn3cchi::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0042.png<>uid://chkn62pqjoypd::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0043.png<>uid://chdn1a5a106tw::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0044.png<>uid://cws80ya5t6fbk::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0045.png<>uid://ylv6q55iyic5::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0046.png<>uid://b11vfkluvpwmr::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0047.png<>uid://btd7u30hv7al0::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0048.png<>uid://cfg63wh5t82q2::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0049.png<>uid://capswqos8ihrl::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0050.png<>uid://dg54223us6dvk::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0051.png<>uid://rdubu66wev2q::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0052.png<>uid://d1foyeuwai87p::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0053.png<>uid://dlj138nutdhl::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0054.png<>uid://cv2jrafsan7uu::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0055.png<>uid://k8dunj5mvnwq::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0056.png<>uid://ca6l3mbld7ldk::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0057.png<>uid://cmnplixbjbvhy::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0058.png<>uid://8fp46de6lfnx::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0059.png<>uid://dt2hl0eujwj2l::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0060.png<>uid://c4xc6pnixa7lo::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0061.png<>uid://b6086m7633ca4::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0062.png<>uid://bdj3ko0gg166v::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0063.png<>uid://c2dpv8bukofju::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0064.png<>uid://dv5nini3ll3bu::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0065.png<>uid://dk1f8l12vcsoh::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0066.png<>uid://b5rhrm76adtnh::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0067.png<>uid://dxc5e7pj68wo2::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0068.png<>uid://bjpnpexka13kh::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0069.png<>uid://dfo5prpi2a58::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0070.png<>uid://d1ukint710qqk::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0071.png<>uid://ifmxrj130exg::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0072.png<>uid://cqiugpmtihp26::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0073.png<>uid://su1yrhwxnesn::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0074.png<>uid://bnbmp4ktv6ck2::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0075.png<>uid://c1rlj3ec7i2h::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0076.png<>uid://dy83umgyreo3o::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0077.png<>uid://xde1knxnewxa::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0119.png<>uid://b5rw4prn3r203::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0164.png<>uid://b451646x86kbw::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0266.png<>uid://cj225sbyn8d6r::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0269.png<>uid://dpuhooauj8vcs::::res://art/title_scene/Intro avec zoom/Cinématique d'intro0346.png<>uid://dyf5q0vsyrby8::::res://art/title_scene/audio/MAP Game jam v3.mp3<>uid://bjvpup0lp6pho::::res://art/title_scene/audio/Vent et oiseaux game jam v2.mp3<>uid://gioe33pgo3x0::::res://art/title_scene/audio/Soupir_Geant.mp3
+mini_falling_tree.tscn::PackedScene::4797282168080266642::1701369328::0::1::::<><>::uid://uw3hfyngchbf::::res://art/biome_1/scene_geant/Sapin vue géant.png<>uid://dwgfj477ytaog::::res://art/biome_1/scene_geant/Sapin vue géant highlighted.png
+README.md::TextFile::-1::1701369128::0::1::::<><>::
+scene_transition.gd::GDScript::-1::1701124798::0::1::::<>CanvasLayer<>::
+scene_transition.tscn::PackedScene::5838797202566547915::1701369328::0::1::::<><>::res://scene_transition.gd<>uid://cqibnuj1b8nbo::::res://art/morris_roman_1/MorrisRomanBlackAlt.otf
+title_scene.gd::GDScript::-1::1701203207::0::1::::<>Node2D<>::
+title_scene.tscn::PackedScene::3154367259653477365::1701369328::0::1::::<><>::uid://cebfpdqs2jbj1::::res://art/title_scene/Carte sans géant.png<>res://title_scene.gd<>uid://b15fp0cug0txx::::res://art/title_scene/ELEMENTS POUR LA CARTE/TREE LINE.png<>uid://cqibnuj1b8nbo::::res://art/morris_roman_1/MorrisRomanBlackAlt.otf<>uid://dt3xvrn3kri4w::::res://art/title_scene/Géant qui soupire.png<>uid://c1wy1b7traqex::::res://art/title_scene/Birds flying/2 birds0001.png<>uid://c5k34axaxdlh8::::res://art/title_scene/Birds flying/2 birds0002.png<>uid://c0qi4h7s1db4h::::res://art/title_scene/Birds flying/2 birds0003.png<>uid://butdqiik5im5i::::res://art/title_scene/Birds flying/2 birds0004.png<>uid://dix6k7sqftc0w::::res://art/title_scene/Birds flying/2 birds0005.png<>uid://ba727e7lkuxsh::::res://art/title_scene/Birds flying/2 birds0006.png<>uid://c4o5fu3wyg4jg::::res://art/title_scene/Birds flying/2 birds0007.png<>uid://dgcyl1aq28dk4::::res://art/title_scene/Birds flying/2 birds0008.png<>uid://trs5vi5mlukf::::res://art/title_scene/Birds flying/2 birds0009.png<>uid://bablna1s4qs6t::::res://art/title_scene/Birds flying/2 birds0010.png<>uid://slc8opggn0tu::::res://art/title_scene/Birds flying/2 birds0011.png<>uid://cr14b2ly8mhka::::res://art/title_scene/Birds flying/2 birds0012.png<>uid://cb43jcjttcq7h::::res://art/title_scene/Birds flying/2 birds0013.png<>uid://u2jxyffwj4qn::::res://art/title_scene/Birds flying/2 birds0014.png<>uid://cmbrt7hn1r71t::::res://art/title_scene/Birds flying/2 birds0015.png<>uid://c66dovcs2wak4::::res://art/title_scene/Birds flying/2 birds0016.png<>uid://c4c4jt52wh1re::::res://art/title_scene/Birds flying/2 birds0017.png<>uid://c0crgs2s31nk5::::res://art/title_scene/Birds flying/2 birds0018.png<>uid://b5i7rcafppp3v::::res://art/title_scene/Birds flying/2 birds0019.png<>uid://c2sauxjwpuoxb::::res://art/title_scene/Birds flying/2 birds0020.png<>uid://dnpmiwcv3bccs::::res://art/title_scene/Birds flying/2 birds0021.png<>uid://bcfswx8fxpolu::::res://art/title_scene/Birds flying/2 birds0022.png<>uid://kx47s4x3obvb::::res://art/title_scene/Birds flying/2 birds0023.png<>uid://di2favcs27q2::::res://art/title_scene/Birds flying/2 birds0024.png<>uid://b8xjt3ogw2rw1::::res://art/title_scene/Birds flying/2 birds0025.png<>uid://domg1shwa8fr8::::res://art/title_scene/Birds flying/2 birds0026.png<>uid://ca5xtojsj8k5w::::res://art/title_scene/Birds flying/2 birds0027.png<>uid://pg8ro0s8i6g2::::res://art/title_scene/Birds flying/2 birds0028.png<>uid://bp1hcmqq3xnnv::::res://art/title_scene/Birds flying/2 birds0029.png<>uid://lk6ybwfklrhf::::res://art/title_scene/Birds flying/2 birds0030.png<>uid://sdawq3e2jge2::::res://art/title_scene/Birds flying/2 birds0031.png<>uid://cr1gsrx76gefo::::res://art/title_scene/Birds flying/2 birds0032.png<>uid://b720g3rsue8v5::::res://art/title_scene/Birds flying/2 birds0033.png<>uid://m372rnb75mms::::res://art/title_scene/Birds flying/2 birds0034.png<>uid://cf56ae4y7affw::::res://art/title_scene/Birds flying/2 birds0035.png<>uid://c10aq4vqd3l58::::res://art/title_scene/Birds flying/2 birds0036.png<>uid://b6i3074gee4bq::::res://art/title_scene/Birds flying/2 birds0037.png<>uid://4bsq2sc7elxa::::res://art/title_scene/Birds flying/2 birds0038.png<>uid://gsi34aew7nh3::::res://art/title_scene/Birds flying/2 birds0039.png<>uid://bh4sk3o46o46t::::res://art/title_scene/Birds flying/2 birds0040.png<>uid://flrg4onlfuek::::res://art/title_scene/Birds flying/2 birds0041.png<>uid://ne0sa10p2xac::::res://art/title_scene/Birds flying/2 birds0042.png<>uid://cwmt2trnp187t::::res://art/title_scene/Birds flying/2 birds0043.png<>uid://dohl048j0tad8::::res://art/title_scene/Birds flying/2 birds0044.png<>uid://2x55b0ger3ki::::res://art/title_scene/Birds flying/2 birds0045.png<>uid://b1t7riay7d3i2::::res://art/title_scene/Birds flying/2 birds0046.png<>uid://dp2oh5uymuxgg::::res://art/title_scene/Birds flying/2 birds0047.png<>uid://dnc7bf1jrcijb::::res://art/title_scene/Birds flying/2 birds0048.png<>uid://b383j8y1vdxcy::::res://art/title_scene/Birds flying/2 birds0049.png<>uid://c3xiyrg2drfkh::::res://art/title_scene/Birds flying/2 birds0050.png<>uid://cg3l1l2knyrkw::::res://art/title_scene/Birds flying/2 birds0051.png<>uid://bmq3fvs7thcqa::::res://art/title_scene/Birds flying/2 birds0052.png<>uid://52ekujhvlyd7::::res://art/title_scene/Birds flying/2 birds0053.png<>uid://dm634gr3wtpe4::::res://art/title_scene/Birds flying/2 birds0054.png<>uid://kyc3d1g5ihgf::::res://art/title_scene/Birds flying/2 birds0055.png<>uid://cpjx7vrcdeqa6::::res://art/title_scene/Birds flying/2 birds0056.png<>uid://bdfaj3nfqduom::::res://art/title_scene/Birds flying/2 birds0057.png<>uid://bj7gkwqqd080p::::res://art/title_scene/Birds flying/2 birds0058.png<>uid://t8svhaued3nv::::res://art/title_scene/Birds flying/2 birds0059.png<>uid://jtp2wypg735o::::res://art/title_scene/Birds flying/2 birds0060.png<>uid://br02hksaoib7h::::res://art/title_scene/Birds flying/2 birds0061.png<>uid://cnouul7nn01x::::res://art/title_scene/Birds flying/2 birds0062.png<>uid://um4on7f6fy3l::::res://art/title_scene/Birds flying/2 birds0063.png<>uid://bphed3u7wyi7o::::res://art/title_scene/Birds flying/2 birds0064.png<>uid://dmcpxfutiv1we::::res://art/title_scene/Birds flying/2 birds0065.png<>uid://byssxbkneavvf::::res://art/title_scene/Birds flying/2 birds0066.png<>uid://ldargj68bmpc::::res://art/title_scene/SAPIN_QUI_CACHE_mains.png<>uid://cepa1n68gw6cn::::res://art/biome_1/scene_geant/Cloud passing by.png
+::res://art/::1701369175
+icon.svg::CompressedTexture2D::653436603786659462::1699307926::1699307983::1::::<><>::
+Lutiny.png::CompressedTexture2D::6025225173433400095::1699523342::1701287844::1::::<><>::
+::res://art/biome_1/::1701369175
+Right Walk Lutin.png::CompressedTexture2D::5507499086285552170::1699561573::1699562089::1::::<><>::
+Smoke animation.png::CompressedTexture2D::9194451960995980818::1700168157::1700257843::1::::<><>::
+::res://art/biome_1/audio/::1701369175
+Bruits de pas feuillages.mp3::AudioStreamMP3::6238099445707139411::1700514937::1700599684::1::::<><>::
+Game Jam Maze 2.mp3::AudioStreamMP3::1970288311382979073::1700086043::1700600934::1::::<><>::
+Game Jam Maze 2.wav::AudioStreamWAV::7401491857869590466::1700086043::1700599701::1::::<><>::
+He Ho Lutin.mp3::AudioStreamMP3::6591560863601714583::1700514937::1700600943::1::::<><>::
+Soupir Géant.mp3::AudioStreamMP3::3134416827145869003::1700514937::1700599684::1::::<><>::
+::res://art/biome_1/scene_geant/::1701369175
+Cloud animation géant.png::CompressedTexture2D::2644935566968717167::1700076278::1700600100::1::::<><>::
+Cloud passing by.png::CompressedTexture2D::5084609571091531965::1700518298::1700600025::1::::<><>::
+Main géant.png::CompressedTexture2D::2862744627165616081::1700598969::1700600024::1::::<><>::
+Mini Lutin Idle.png::CompressedTexture2D::2859229228367808991::1700599761::1700600025::1::::<><>::
+Nuages géant anim.png::CompressedTexture2D::6676485084597634804::1699909038::1700600097::1::::<><>::
+Sapin vue géant highlighted.png::CompressedTexture2D::8716124108846999034::1700598969::1700600025::1::::<><>::
+Sapin vue géant.png::CompressedTexture2D::1450906059995579987::1700598969::1700600025::1::::<><>::
+Woods Giant Sunset.png::CompressedTexture2D::4670906613824475384::1700597914::1700600030::1::::<><>::
+::res://art/biome_1/scene_geant/audio/::1701369175
+Ambiance_giant_maze.mp3::AudioStreamMP3::6491452901857969296::1701201786::1701203410::1::::<><>::
+::res://art/biome_1/scene_geant/Géant prend arbre/::1701369175
+Géant prend arbre0001.png::CompressedTexture2D::2623516642432657591::1700598981::1700600033::1::::<><>::
+Géant prend arbre0002.png::CompressedTexture2D::3076352452094745265::1700598981::1700600042::1::::<><>::
+Géant prend arbre0003.png::CompressedTexture2D::4684050388806030706::1700598981::1700600041::1::::<><>::
+Géant prend arbre0004.png::CompressedTexture2D::2504611547966099253::1700598981::1700600043::1::::<><>::
+Géant prend arbre0005.png::CompressedTexture2D::469077335706564412::1700598981::1700600044::1::::<><>::
+Géant prend arbre0006.png::CompressedTexture2D::8191861255390161979::1700598981::1700600045::1::::<><>::
+Géant prend arbre0007.png::CompressedTexture2D::1955386074478203958::1700598981::1700600049::1::::<><>::
+Géant prend arbre0008.png::CompressedTexture2D::8052313554185763675::1700598981::1700600050::1::::<><>::
+Géant prend arbre0009.png::CompressedTexture2D::4868405342878372411::1700598981::1700600053::1::::<><>::
+Géant prend arbre0010.png::CompressedTexture2D::5040796214441789323::1700598981::1700600056::1::::<><>::
+Géant prend arbre0011.png::CompressedTexture2D::8025953294626663068::1700598981::1700600053::1::::<><>::
+Géant prend arbre0012.png::CompressedTexture2D::2606762682480255671::1700598981::1700600054::1::::<><>::
+Géant prend arbre0013.png::CompressedTexture2D::3805876113503113382::1700598981::1700600058::1::::<><>::
+Géant prend arbre0014.png::CompressedTexture2D::8970202743302431933::1700598981::1700600056::1::::<><>::
+Géant prend arbre0015.png::CompressedTexture2D::8284282488873499898::1700598981::1700600056::1::::<><>::
+Géant prend arbre0016.png::CompressedTexture2D::7657066413234374555::1700598981::1700600057::1::::<><>::
+Géant prend arbre0017.png::CompressedTexture2D::1441070501568934171::1700598981::1700600060::1::::<><>::
+Géant prend arbre0018.png::CompressedTexture2D::6468078565482971023::1700598981::1700600060::1::::<><>::
+Géant prend arbre0019.png::CompressedTexture2D::5707541077924962875::1700598981::1700600060::1::::<><>::
+Géant prend arbre0020.png::CompressedTexture2D::8984575432712146808::1700598981::1700600062::1::::<><>::
+Géant prend arbre0021.png::CompressedTexture2D::7595155832588043687::1700598981::1700600064::1::::<><>::
+Géant prend arbre0022.png::CompressedTexture2D::4267352629273468077::1700598981::1700600069::1::::<><>::
+Géant prend arbre0023.png::CompressedTexture2D::519786384320027543::1700598981::1700600065::1::::<><>::
+Géant prend arbre0024.png::CompressedTexture2D::4196510105713653612::1700598981::1700600066::1::::<><>::
+Géant prend arbre0025.png::CompressedTexture2D::6233506533697778848::1700598981::1700600066::1::::<><>::
+Géant prend arbre0026.png::CompressedTexture2D::6119001848060570578::1700598981::1700600068::1::::<><>::
+Géant prend arbre0027.png::CompressedTexture2D::294917608242803670::1700598982::1700600069::1::::<><>::
+Géant prend arbre0028.png::CompressedTexture2D::3123140327963432871::1700598982::1700600069::1::::<><>::
+Géant prend arbre0029.png::CompressedTexture2D::7115610434154703596::1700598982::1700600073::1::::<><>::
+Géant prend arbre0030.png::CompressedTexture2D::9187198207429352497::1700598982::1700600073::1::::<><>::
+Géant prend arbre0031.png::CompressedTexture2D::5321960566567054209::1700598982::1700600074::1::::<><>::
+Géant prend arbre0032.png::CompressedTexture2D::5298945463584419920::1700598982::1700600076::1::::<><>::
+Géant prend arbre0033.png::CompressedTexture2D::5484982111494362688::1700598982::1700600027::1::::<><>::
+Géant prend arbre0034.png::CompressedTexture2D::4524965325371301711::1700598982::1700600027::1::::<><>::
+Géant prend arbre0035.png::CompressedTexture2D::856153475366107041::1700598982::1700600027::1::::<><>::
+Géant prend arbre0036.png::CompressedTexture2D::5436417973533904802::1700598982::1700600027::1::::<><>::
+Géant prend arbre0037.png::CompressedTexture2D::4546375581558487852::1700598982::1700600027::1::::<><>::
+Géant prend arbre0038.png::CompressedTexture2D::3788187739941967526::1700598982::1700600027::1::::<><>::
+Géant prend arbre0039.png::CompressedTexture2D::977675628123132446::1700598982::1700600027::1::::<><>::
+Géant prend arbre0040.png::CompressedTexture2D::1956295227001558089::1700598982::1700600027::1::::<><>::
+::res://art/biome_1/scene_lutin/::1701369175
+Arbre qui tombe.png::CompressedTexture2D::4289487572653274550::1700597923::1700600075::1::::<><>::
+Back Walk Lutin.png::CompressedTexture2D::4547331093414072072::1699636503::1700600030::1::::<><>::
+Chalet-1.png::CompressedTexture2D::6755951086725708037::1699907585::1700600028::1::::<><>::
+Cloud animation lutin.png::CompressedTexture2D::4211680283597984269::1700076278::1700600106::1::::<><>::
+Cloud animation.png::CompressedTexture2D::7719814141756963905::1699909038::1700600104::1::::<><>::
+Front Walk Lutin.png::CompressedTexture2D::3587189855074476744::1699561569::1700600030::1::::<><>::
+Idle Lutin.png::CompressedTexture2D::3048639433542854418::1699636506::1700600034::1::::<><>::
+Lunettes 395.png::CompressedTexture2D::3537085749058408937::1699823448::1700600053::1::::<><>::
+Tree Falling.png::CompressedTexture2D::5749012172141396422::1700682639::1700682690::1::::<><>::
+Woods tilemap v2.png::CompressedTexture2D::2556828299655741519::1699523328::1700600047::1::::<><>::
+Woods tilemap v3.png::CompressedTexture2D::8999239089953085825::1699636515::1700600050::1::::<><>::
+::res://art/biome_1/scene_lutin/audio/::1701369175
+Ambiance_elf_maze.mp3::AudioStreamMP3::3737328270601067363::1701201771::1701203305::1::::<><>::
+Arbre_qui_tombe.mp3::AudioStreamMP3::8516545404444050473::1701199621::1701203327::1::::<><>::
+::res://art/biome_1/scene_lutin/Falling tree/::1701369175
+Tree falls0001.png::CompressedTexture2D::229317129274265462::1700771500::1700771697::1::::<><>::
+Tree falls0002.png::CompressedTexture2D::8607676789330423333::1700771500::1700771697::1::::<><>::
+Tree falls0003.png::CompressedTexture2D::3821949741765505202::1700771500::1700771697::1::::<><>::
+Tree falls0004.png::CompressedTexture2D::4572957414679411621::1700771500::1700771697::1::::<><>::
+Tree falls0005.png::CompressedTexture2D::1797411505588144044::1700771500::1700771697::1::::<><>::
+Tree falls0006.png::CompressedTexture2D::3789088497470853620::1700771500::1700771697::1::::<><>::
+Tree falls0007.png::CompressedTexture2D::180831251708104310::1700771500::1700771697::1::::<><>::
+Tree falls0008.png::CompressedTexture2D::1933385348513391631::1700771500::1700771697::1::::<><>::
+Tree falls0009.png::CompressedTexture2D::6005780440832793156::1700771500::1700771697::1::::<><>::
+Tree falls0010.png::CompressedTexture2D::5357288939920781707::1700771500::1700771697::1::::<><>::
+Tree falls0011.png::CompressedTexture2D::766656143283856362::1700771500::1700771697::1::::<><>::
+Tree falls0012.png::CompressedTexture2D::979067950596570962::1700771500::1700771697::1::::<><>::
+Tree falls0013.png::CompressedTexture2D::1001984619787158899::1700771500::1700771697::1::::<><>::
+Tree falls0014.png::CompressedTexture2D::923808305135972666::1700771500::1700771697::1::::<><>::
+Tree falls0015.png::CompressedTexture2D::9140783771832941392::1700771501::1700771697::1::::<><>::
+Tree falls0016.png::CompressedTexture2D::6491740345032637122::1700771501::1700771697::1::::<><>::
+Tree falls0017.png::CompressedTexture2D::1689082644823474827::1700771501::1700771697::1::::<><>::
+Tree falls0018.png::CompressedTexture2D::5558809858633447924::1700771501::1700771697::1::::<><>::
+Tree falls0019.png::CompressedTexture2D::8364697113805639070::1700771501::1700771697::1::::<><>::
+Tree falls0020.png::CompressedTexture2D::8922435485073435473::1700771501::1700771697::1::::<><>::
+Tree falls0021.png::CompressedTexture2D::3387105326399989669::1700771501::1700771697::1::::<><>::
+Tree falls0022.png::CompressedTexture2D::6931277474366225765::1700771501::1700771701::1::::<><>::
+Tree falls0023.png::CompressedTexture2D::8001467167399254246::1700771501::1700771701::1::::<><>::
+Tree falls0024.png::CompressedTexture2D::1157698559817242881::1700771501::1700771701::1::::<><>::
+Tree falls0025.png::CompressedTexture2D::1334007251147924984::1700771501::1700771701::1::::<><>::
+Tree falls0026.png::CompressedTexture2D::7323741030984910988::1700771501::1700771701::1::::<><>::
+Tree falls0027.png::CompressedTexture2D::2011886608231305311::1700771501::1700771701::1::::<><>::
+Tree falls0028.png::CompressedTexture2D::5328295682109408607::1700771501::1700771701::1::::<><>::
+Tree falls0029.png::CompressedTexture2D::4235296116398142870::1700771501::1700771701::1::::<><>::
+Tree falls0030.png::CompressedTexture2D::727885512822529161::1700771501::1700771701::1::::<><>::
+Tree falls0031.png::CompressedTexture2D::4604824585822253209::1700771501::1700771700::1::::<><>::
+Tree falls0032.png::CompressedTexture2D::3589768341081643601::1700771501::1700771700::1::::<><>::
+Tree falls0033.png::CompressedTexture2D::5041204052072251474::1700771501::1700771700::1::::<><>::
+Tree falls0034.png::CompressedTexture2D::9112759322920135417::1700771501::1700771700::1::::<><>::
+Tree falls0035.png::CompressedTexture2D::7497324313837896506::1700771501::1700771700::1::::<><>::
+Tree falls0036.png::CompressedTexture2D::1200177302932149836::1700771501::1700771700::1::::<><>::
+Tree falls0037.png::CompressedTexture2D::2568414245365696183::1700771501::1700771700::1::::<><>::
+Tree falls0038.png::CompressedTexture2D::8545088440521377436::1700771501::1700771700::1::::<><>::
+Tree falls0039.png::CompressedTexture2D::31970875937141005::1700771501::1700771700::1::::<><>::
+Tree falls0040.png::CompressedTexture2D::296814220247418790::1700771501::1700771700::1::::<><>::
+Tree falls0041.png::CompressedTexture2D::690139314558585648::1700771501::1700771700::1::::<><>::
+Tree falls0042.png::CompressedTexture2D::3102769963756078332::1700771501::1700771700::1::::<><>::
+::res://art/end_cutscene/::1701369175
+Fond_j.png::CompressedTexture2D::7586183814954631895::1701201756::1701201870::1::::<><>::
+::res://art/end_cutscene/Geant Lutin Fin/::1701369175
+GEANT LUTIN FIN0001.png::CompressedTexture2D::319223756882779742::1701201840::1701201869::1::::<><>::
+GEANT LUTIN FIN0002.png::CompressedTexture2D::6334315970359515789::1701201840::1701201869::1::::<><>::
+GEANT LUTIN FIN0003.png::CompressedTexture2D::4795757815882984088::1701201840::1701201869::1::::<><>::
+GEANT LUTIN FIN0004.png::CompressedTexture2D::1947308306812027102::1701201840::1701201869::1::::<><>::
+GEANT LUTIN FIN0005.png::CompressedTexture2D::7096512004059219200::1701201840::1701201869::1::::<><>::
+GEANT LUTIN FIN0006.png::CompressedTexture2D::2965342759330169087::1701201840::1701201870::1::::<><>::
+GEANT LUTIN FIN0007.png::CompressedTexture2D::120174214325382190::1701201840::1701201869::1::::<><>::
+GEANT LUTIN FIN0008.png::CompressedTexture2D::5022996920796285331::1701201840::1701201869::1::::<><>::
+GEANT LUTIN FIN0009.png::CompressedTexture2D::3966198492095844183::1701201840::1701201870::1::::<><>::
+GEANT LUTIN FIN0010.png::CompressedTexture2D::6652897310238837914::1701201840::1701201870::1::::<><>::
+GEANT LUTIN FIN0011.png::CompressedTexture2D::305173882502574893::1701201840::1701201870::1::::<><>::
+GEANT LUTIN FIN0012.png::CompressedTexture2D::393640558654374005::1701201840::1701201870::1::::<><>::
+GEANT LUTIN FIN0013.png::CompressedTexture2D::7698499416714675928::1701201840::1701201870::1::::<><>::
+GEANT LUTIN FIN0014.png::CompressedTexture2D::8262806803699144311::1701201840::1701201871::1::::<><>::
+GEANT LUTIN FIN0015.png::CompressedTexture2D::3258069965264743060::1701201840::1701201871::1::::<><>::
+GEANT LUTIN FIN0016.png::CompressedTexture2D::6337400008334166398::1701201840::1701201871::1::::<><>::
+GEANT LUTIN FIN0017.png::CompressedTexture2D::5096797620585687342::1701201840::1701201871::1::::<><>::
+GEANT LUTIN FIN0018.png::CompressedTexture2D::5688029480456382744::1701201840::1701201871::1::::<><>::
+GEANT LUTIN FIN0019.png::CompressedTexture2D::9097765024652768109::1701201840::1701201871::1::::<><>::
+GEANT LUTIN FIN0020.png::CompressedTexture2D::3628322958242932030::1701201840::1701201871::1::::<><>::
+GEANT LUTIN FIN0021.png::CompressedTexture2D::8994034603940383706::1701201840::1701201872::1::::<><>::
+GEANT LUTIN FIN0022.png::CompressedTexture2D::28776532041201446::1701201840::1701201872::1::::<><>::
+GEANT LUTIN FIN0023.png::CompressedTexture2D::7506161351824236044::1701201841::1701201872::1::::<><>::
+GEANT LUTIN FIN0024.png::CompressedTexture2D::4711140104950861214::1701201841::1701201872::1::::<><>::
+GEANT LUTIN FIN0025.png::CompressedTexture2D::6528879516240570843::1701201841::1701201872::1::::<><>::
+GEANT LUTIN FIN0026.png::CompressedTexture2D::931514001857779786::1701201841::1701201872::1::::<><>::
+GEANT LUTIN FIN0027.png::CompressedTexture2D::2481017203119238326::1701201841::1701201872::1::::<><>::
+GEANT LUTIN FIN0028.png::CompressedTexture2D::7998248386566509929::1701201841::1701201872::1::::<><>::
+GEANT LUTIN FIN0029.png::CompressedTexture2D::6295240268250249874::1701201841::1701201872::1::::<><>::
+GEANT LUTIN FIN0030.png::CompressedTexture2D::1899449553448518197::1701201841::1701201872::1::::<><>::
+GEANT LUTIN FIN0031.png::CompressedTexture2D::1303666752702596369::1701201841::1701201872::1::::<><>::
+GEANT LUTIN FIN0032.png::CompressedTexture2D::371330370336318117::1701201841::1701201868::1::::<><>::
+GEANT LUTIN FIN0033.png::CompressedTexture2D::4520981430514602043::1701201841::1701201868::1::::<><>::
+GEANT LUTIN FIN0034.png::CompressedTexture2D::7511675416229341835::1701201841::1701201868::1::::<><>::
+GEANT LUTIN FIN0035.png::CompressedTexture2D::1153904536884839894::1701201841::1701201868::1::::<><>::
+GEANT LUTIN FIN0036.png::CompressedTexture2D::2054742376621416471::1701201841::1701201868::1::::<><>::
+GEANT LUTIN FIN0037.png::CompressedTexture2D::5263970847993543249::1701201841::1701201868::1::::<><>::
+GEANT LUTIN FIN0038.png::CompressedTexture2D::1223510543320548987::1701201841::1701201868::1::::<><>::
+GEANT LUTIN FIN0039.png::CompressedTexture2D::291078059536811529::1701201841::1701201868::1::::<><>::
+GEANT LUTIN FIN0040.png::CompressedTexture2D::548128472174541347::1701201841::1701201868::1::::<><>::
+GEANT LUTIN FIN0041.png::CompressedTexture2D::34476246135784384::1701201841::1701201868::1::::<><>::
+GEANT LUTIN FIN0042.png::CompressedTexture2D::3967244782339737436::1701201841::1701201868::1::::<><>::
+GEANT LUTIN FIN0043.png::CompressedTexture2D::1061449390112994689::1701201841::1701201868::1::::<><>::
+GEANT LUTIN FIN0044.png::CompressedTexture2D::4746889834611604404::1701201841::1701201869::1::::<><>::
+GEANT LUTIN FIN0045.png::CompressedTexture2D::5385554589217205987::1701201841::1701201869::1::::<><>::
+GEANT LUTIN FIN0046.png::CompressedTexture2D::4297721016115866861::1701201841::1701201869::1::::<><>::
+GEANT LUTIN FIN0047.png::CompressedTexture2D::1876369488786281372::1701201841::1701201869::1::::<><>::
+GEANT LUTIN FIN0048.png::CompressedTexture2D::4012886184931170229::1701201841::1701201869::1::::<><>::
+GEANT LUTIN FIN0049.png::CompressedTexture2D::7326025061777226495::1701201841::1701201869::1::::<><>::
+GEANT LUTIN FIN0050.png::CompressedTexture2D::767981932052902280::1701201841::1701201869::1::::<><>::
+GEANT LUTIN FIN0051.png::CompressedTexture2D::4691559336159133637::1701201841::1701201869::1::::<><>::
+GEANT LUTIN FIN0052.png::CompressedTexture2D::6569497595543135191::1701201841::1701201869::1::::<><>::
+GEANT LUTIN FIN0053.png::CompressedTexture2D::4206541981248534260::1701201841::1701201869::1::::<><>::
+GEANT LUTIN FIN0054.png::CompressedTexture2D::1439725407968764523::1701201841::1701201869::1::::<><>::
+GEANT LUTIN FIN0055.png::CompressedTexture2D::3943831643939049394::1701201841::1701201869::1::::<><>::
+GEANT LUTIN FIN0056.png::CompressedTexture2D::3552283266485645132::1701201841::1701201869::1::::<><>::
+GEANT LUTIN FIN0057.png::CompressedTexture2D::5369413120755992830::1701201841::1701201869::1::::<><>::
+GEANT LUTIN FIN0058.png::CompressedTexture2D::1377033308377233946::1701201841::1701201869::1::::<><>::
+::res://art/morris_roman_1/::1701369175
+MorrisRomanBlackAlt.otf::FontFile::5912462885494940668::1700169626::1700599683::1::::<><>::
+::res://art/title_scene/::1701369176
+Carte sans géant.png::CompressedTexture2D::5055991674705992200::1700169422::1700599687::1::::<><>::
+Géant qui soupire.png::CompressedTexture2D::8552087564086867192::1701021847::1701022620::1::::<><>::
+SAPIN_QUI_CACHE_mains.png::CompressedTexture2D::778301102272910312::1701022975::1701023046::1::::<><>::
+::res://art/title_scene/audio/::1701369175
+MAP Game jam v3.mp3::AudioStreamMP3::8855967616023077725::1700344809::1700599684::1::::<><>::
+Soupir_Geant.mp3::AudioStreamMP3::438506779533483079::1701200372::1701202857::1::::<><>::
+Vent et oiseaux game jam v2.mp3::AudioStreamMP3::3062419507031675968::1700514937::1700599684::1::::<><>::
+::res://art/title_scene/Birds flying/::1701369176
+2 birds0001.png::CompressedTexture2D::6644671353875382479::1700771475::1700771700::1::::<><>::
+2 birds0002.png::CompressedTexture2D::6900902353449842563::1700771475::1700771701::1::::<><>::
+2 birds0003.png::CompressedTexture2D::6561130444317236573::1700771475::1700771701::1::::<><>::
+2 birds0004.png::CompressedTexture2D::3829631890501672340::1700771475::1700771701::1::::<><>::
+2 birds0005.png::CompressedTexture2D::7770155282529828952::1700771475::1700771701::1::::<><>::
+2 birds0006.png::CompressedTexture2D::2454177536073773287::1700771475::1700771701::1::::<><>::
+2 birds0007.png::CompressedTexture2D::6839050654951944092::1700771475::1700771701::1::::<><>::
+2 birds0008.png::CompressedTexture2D::7586002086346418485::1700771475::1700771701::1::::<><>::
+2 birds0009.png::CompressedTexture2D::1369830047356917633::1700771475::1700771701::1::::<><>::
+2 birds0010.png::CompressedTexture2D::2389176204710512521::1700771475::1700771701::1::::<><>::
+2 birds0011.png::CompressedTexture2D::1286288464743774278::1700771475::1700771701::1::::<><>::
+2 birds0012.png::CompressedTexture2D::6021489545680770976::1700771475::1700771701::1::::<><>::
+2 birds0013.png::CompressedTexture2D::4904613433673274727::1700771475::1700771701::1::::<><>::
+2 birds0014.png::CompressedTexture2D::1460103866856362281::1700771475::1700771701::1::::<><>::
+2 birds0015.png::CompressedTexture2D::5618239679944820239::1700771475::1700771701::1::::<><>::
+2 birds0016.png::CompressedTexture2D::7012899489568772625::1700771475::1700771701::1::::<><>::
+2 birds0017.png::CompressedTexture2D::6814224498876879142::1700771475::1700771701::1::::<><>::
+2 birds0018.png::CompressedTexture2D::6532735105471904694::1700771475::1700771701::1::::<><>::
+2 birds0019.png::CompressedTexture2D::4510574422425991185::1700771475::1700771701::1::::<><>::
+2 birds0020.png::CompressedTexture2D::6705135884024970839::1700771475::1700771701::1::::<><>::
+2 birds0021.png::CompressedTexture2D::8103426734543972550::1700771475::1700771701::1::::<><>::
+2 birds0022.png::CompressedTexture2D::2538253712349286794::1700771475::1700771701::1::::<><>::
+2 birds0023.png::CompressedTexture2D::751188054221497759::1700771476::1700771700::1::::<><>::
+2 birds0024.png::CompressedTexture2D::228729873277710771::1700771476::1700771699::1::::<><>::
+2 birds0025.png::CompressedTexture2D::4750715087694795202::1700771476::1700771699::1::::<><>::
+2 birds0026.png::CompressedTexture2D::8167090084893416191::1700771476::1700771699::1::::<><>::
+2 birds0027.png::CompressedTexture2D::4836203870987133138::1700771476::1700771699::1::::<><>::
+2 birds0028.png::CompressedTexture2D::1067253715161820595::1700771476::1700771699::1::::<><>::
+2 birds0029.png::CompressedTexture2D::3493356406168692091::1700771476::1700771699::1::::<><>::
+2 birds0030.png::CompressedTexture2D::794646230138471887::1700771476::1700771699::1::::<><>::
+2 birds0031.png::CompressedTexture2D::1269632490058979507::1700771476::1700771699::1::::<><>::
+2 birds0032.png::CompressedTexture2D::6020122907008248360::1700771476::1700771699::1::::<><>::
+2 birds0033.png::CompressedTexture2D::4689732016812581836::1700771476::1700771699::1::::<><>::
+2 birds0034.png::CompressedTexture2D::902060774042822826::1700771476::1700771699::1::::<><>::
+2 birds0035.png::CompressedTexture2D::5187599400999865236::1700771476::1700771699::1::::<><>::
+2 birds0036.png::CompressedTexture2D::6649390874879153817::1700771476::1700771699::1::::<><>::
+2 birds0037.png::CompressedTexture2D::4580536304974347910::1700771476::1700771699::1::::<><>::
+2 birds0038.png::CompressedTexture2D::2038663767900011290::1700771476::1700771699::1::::<><>::
+2 birds0039.png::CompressedTexture2D::458829122962307358::1700771476::1700771699::1::::<><>::
+2 birds0040.png::CompressedTexture2D::2938721801476610981::1700771476::1700771699::1::::<><>::
+2 birds0041.png::CompressedTexture2D::374696822535274714::1700771476::1700771699::1::::<><>::
+2 birds0042.png::CompressedTexture2D::922262588742043078::1700771476::1700771699::1::::<><>::
+2 birds0043.png::CompressedTexture2D::6342971324586721399::1700771476::1700771699::1::::<><>::
+2 birds0044.png::CompressedTexture2D::8157070612657002511::1700771476::1700771699::1::::<><>::
+2 birds0045.png::CompressedTexture2D::1944454641592509332::1700771476::1700771700::1::::<><>::
+2 birds0046.png::CompressedTexture2D::4252527519194153523::1700771476::1700771700::1::::<><>::
+2 birds0047.png::CompressedTexture2D::8268697051169359374::1700771476::1700771700::1::::<><>::
+2 birds0048.png::CompressedTexture2D::8077790806657665683::1700771476::1700771700::1::::<><>::
+2 birds0049.png::CompressedTexture2D::4421550690939974880::1700771476::1700771700::1::::<><>::
+2 birds0050.png::CompressedTexture2D::6786139175987551623::1700771476::1700771700::1::::<><>::
+2 birds0051.png::CompressedTexture2D::5252491943829289278::1700771476::1700771700::1::::<><>::
+2 birds0052.png::CompressedTexture2D::3263426988457866000::1700771476::1700771700::1::::<><>::
+2 birds0053.png::CompressedTexture2D::2161665299127514158::1700771476::1700771700::1::::<><>::
+2 birds0054.png::CompressedTexture2D::8067276091636379289::1700771476::1700771700::1::::<><>::
+2 birds0055.png::CompressedTexture2D::751605136740619085::1700771476::1700771700::1::::<><>::
+2 birds0056.png::CompressedTexture2D::5845708187328894895::1700771476::1700771700::1::::<><>::
+2 birds0057.png::CompressedTexture2D::2607326666507602608::1700771476::1700771699::1::::<><>::
+2 birds0058.png::CompressedTexture2D::3084563705423524317::1700771476::1700771699::1::::<><>::
+2 birds0059.png::CompressedTexture2D::1402843271126042647::1700771477::1700771699::1::::<><>::
+2 birds0060.png::CompressedTexture2D::671882934676206010::1700771477::1700771699::1::::<><>::
+2 birds0061.png::CompressedTexture2D::3632892881812181099::1700771477::1700771699::1::::<><>::
+2 birds0062.png::CompressedTexture2D::168101420787368423::1700771477::1700771699::1::::<><>::
+2 birds0063.png::CompressedTexture2D::1430335932220382939::1700771477::1700771699::1::::<><>::
+2 birds0064.png::CompressedTexture2D::3453953710928964750::1700771477::1700771699::1::::<><>::
+2 birds0065.png::CompressedTexture2D::8006609052782779872::1700771477::1700771699::1::::<><>::
+2 birds0066.png::CompressedTexture2D::4109245778275988355::1700771477::1700771699::1::::<><>::
+::res://art/title_scene/ELEMENTS POUR LA CARTE/::1701369176
+TREE LINE.png::CompressedTexture2D::4273593639867236377::1700168190::1700599689::1::::<><>::
+::res://art/title_scene/Intro avec zoom/::1701369176
+Cinématique d'intro0001.png::CompressedTexture2D::3025625544888176162::1701119372::1701119414::1::::<><>::
+Cinématique d'intro0002.png::CompressedTexture2D::1684767662571948367::1701119372::1701119414::1::::<><>::
+Cinématique d'intro0003.png::CompressedTexture2D::7084035291092594781::1701119372::1701119413::1::::<><>::
+Cinématique d'intro0004.png::CompressedTexture2D::6192944401959096640::1701119373::1701119413::1::::<><>::
+Cinématique d'intro0005.png::CompressedTexture2D::5324497205273606927::1701119373::1701119413::1::::<><>::
+Cinématique d'intro0006.png::CompressedTexture2D::3085903738494380056::1701119373::1701119413::1::::<><>::
+Cinématique d'intro0007.png::CompressedTexture2D::728188795551006274::1701119373::1701119413::1::::<><>::
+Cinématique d'intro0008.png::CompressedTexture2D::6630160333942039947::1701119373::1701119413::1::::<><>::
+Cinématique d'intro0009.png::CompressedTexture2D::9217308965722762389::1701119373::1701119412::1::::<><>::
+Cinématique d'intro0010.png::CompressedTexture2D::2818717355881591531::1701119373::1701119412::1::::<><>::
+Cinématique d'intro0011.png::CompressedTexture2D::2861644682521204599::1701119373::1701119412::1::::<><>::
+Cinématique d'intro0012.png::CompressedTexture2D::8343899702534612062::1701119373::1701119412::1::::<><>::
+Cinématique d'intro0013.png::CompressedTexture2D::5206876826916587883::1701119373::1701119412::1::::<><>::
+Cinématique d'intro0014.png::CompressedTexture2D::1923078009319299534::1701119373::1701119412::1::::<><>::
+Cinématique d'intro0015.png::CompressedTexture2D::5342845056724531030::1701119373::1701119411::1::::<><>::
+Cinématique d'intro0016.png::CompressedTexture2D::2969950361942292358::1701119373::1701119411::1::::<><>::
+Cinématique d'intro0017.png::CompressedTexture2D::2558601755052624903::1701119373::1701119411::1::::<><>::
+Cinématique d'intro0018.png::CompressedTexture2D::8296067075707687217::1701119373::1701119411::1::::<><>::
+Cinématique d'intro0019.png::CompressedTexture2D::1783947106690813564::1701119373::1701119410::1::::<><>::
+Cinématique d'intro0020.png::CompressedTexture2D::434155197697975519::1701119373::1701119410::1::::<><>::
+Cinématique d'intro0021.png::CompressedTexture2D::5914851687464791506::1701119373::1701119418::1::::<><>::
+Cinématique d'intro0022.png::CompressedTexture2D::4040266329290648837::1701119373::1701119418::1::::<><>::
+Cinématique d'intro0023.png::CompressedTexture2D::7517279900688479829::1701119373::1701119418::1::::<><>::
+Cinématique d'intro0024.png::CompressedTexture2D::33283414219440867::1701119373::1701119418::1::::<><>::
+Cinématique d'intro0025.png::CompressedTexture2D::6453234520423101334::1701119373::1701119417::1::::<><>::
+Cinématique d'intro0026.png::CompressedTexture2D::7872347847004057726::1701119373::1701119417::1::::<><>::
+Cinématique d'intro0027.png::CompressedTexture2D::7077953755736603772::1701119373::1701119417::1::::<><>::
+Cinématique d'intro0028.png::CompressedTexture2D::8290986108999786416::1701119373::1701119417::1::::<><>::
+Cinématique d'intro0029.png::CompressedTexture2D::7328329370083647257::1701119373::1701119417::1::::<><>::
+Cinématique d'intro0030.png::CompressedTexture2D::4771717509146424226::1701119373::1701119417::1::::<><>::
+Cinématique d'intro0031.png::CompressedTexture2D::2495772324694470058::1701119373::1701119416::1::::<><>::
+Cinématique d'intro0032.png::CompressedTexture2D::3201017731577071666::1701119373::1701119416::1::::<><>::
+Cinématique d'intro0033.png::CompressedTexture2D::153499398924092457::1701119374::1701119416::1::::<><>::
+Cinématique d'intro0034.png::CompressedTexture2D::308553117720137804::1701119374::1701119416::1::::<><>::
+Cinématique d'intro0035.png::CompressedTexture2D::8235448126933123584::1701119374::1701119415::1::::<><>::
+Cinématique d'intro0036.png::CompressedTexture2D::4259798531286932695::1701119374::1701119415::1::::<><>::
+Cinématique d'intro0037.png::CompressedTexture2D::3252898379132583139::1701119374::1701119415::1::::<><>::
+Cinématique d'intro0038.png::CompressedTexture2D::6197719033616067626::1701119374::1701119415::1::::<><>::
+Cinématique d'intro0039.png::CompressedTexture2D::6248220168881170742::1701119374::1701119415::1::::<><>::
+Cinématique d'intro0040.png::CompressedTexture2D::3700704710170553549::1701119374::1701119415::1::::<><>::
+Cinématique d'intro0041.png::CompressedTexture2D::3993075562602772892::1701119374::1701119415::1::::<><>::
+Cinématique d'intro0042.png::CompressedTexture2D::2668915669305464942::1701119374::1701119406::1::::<><>::
+Cinématique d'intro0043.png::CompressedTexture2D::5285653172952134817::1701119374::1701119406::1::::<><>::
+Cinématique d'intro0044.png::CompressedTexture2D::5271192204041995776::1701119374::1701119406::1::::<><>::
+Cinématique d'intro0045.png::CompressedTexture2D::6356204294554987048::1701119374::1701119406::1::::<><>::
+Cinématique d'intro0046.png::CompressedTexture2D::1708571707159023106::1701119374::1701119406::1::::<><>::
+Cinématique d'intro0047.png::CompressedTexture2D::4266288968868854409::1701119374::1701119406::1::::<><>::
+Cinématique d'intro0048.png::CompressedTexture2D::3728182015345804031::1701119374::1701119406::1::::<><>::
+Cinématique d'intro0049.png::CompressedTexture2D::5138105248822936159::1701119374::1701119406::1::::<><>::
+Cinématique d'intro0050.png::CompressedTexture2D::4804940089895926777::1701119374::1701119404::1::::<><>::
+Cinématique d'intro0051.png::CompressedTexture2D::7644136917073913080::1701119374::1701119404::1::::<><>::
+Cinématique d'intro0052.png::CompressedTexture2D::1200620700551983770::1701119374::1701119404::1::::<><>::
+Cinématique d'intro0053.png::CompressedTexture2D::8995387013380313939::1701119374::1701119404::1::::<><>::
+Cinématique d'intro0054.png::CompressedTexture2D::233869092035667645::1701119374::1701119404::1::::<><>::
+Cinématique d'intro0055.png::CompressedTexture2D::6303122103118185892::1701119374::1701119404::1::::<><>::
+Cinématique d'intro0056.png::CompressedTexture2D::770231467207425304::1701119374::1701119404::1::::<><>::
+Cinématique d'intro0057.png::CompressedTexture2D::4837555599241898732::1701119375::1701119404::1::::<><>::
+Cinématique d'intro0058.png::CompressedTexture2D::5642875256244647634::1701119375::1701119404::1::::<><>::
+Cinématique d'intro0059.png::CompressedTexture2D::2327517904821980909::1701119375::1701119404::1::::<><>::
+Cinématique d'intro0060.png::CompressedTexture2D::8549034262428434309::1701119375::1701119404::1::::<><>::
+Cinématique d'intro0061.png::CompressedTexture2D::6855976123156066868::1701119375::1701119404::1::::<><>::
+Cinématique d'intro0062.png::CompressedTexture2D::4615943981856905893::1701119375::1701119410::1::::<><>::
+Cinématique d'intro0063.png::CompressedTexture2D::2617285322358947935::1701119375::1701119410::1::::<><>::
+Cinématique d'intro0064.png::CompressedTexture2D::6675083271176742954::1701119375::1701119410::1::::<><>::
+Cinématique d'intro0065.png::CompressedTexture2D::8695963403806323246::1701119375::1701119410::1::::<><>::
+Cinématique d'intro0066.png::CompressedTexture2D::7915187444404560875::1701119375::1701119410::1::::<><>::
+Cinématique d'intro0067.png::CompressedTexture2D::4527636473221418757::1701119375::1701119410::1::::<><>::
+Cinématique d'intro0068.png::CompressedTexture2D::8779564567591720103::1701119375::1701119409::1::::<><>::
+Cinématique d'intro0069.png::CompressedTexture2D::3049902296640137627::1701119375::1701119409::1::::<><>::
+Cinématique d'intro0070.png::CompressedTexture2D::221792846205484949::1701119375::1701119409::1::::<><>::
+Cinématique d'intro0071.png::CompressedTexture2D::9026081710672760210::1701119375::1701119408::1::::<><>::
+Cinématique d'intro0072.png::CompressedTexture2D::572603223067486764::1701119375::1701119408::1::::<><>::
+Cinématique d'intro0073.png::CompressedTexture2D::5913603749508119433::1701119375::1701119408::1::::<><>::
+Cinématique d'intro0074.png::CompressedTexture2D::1306309146172838617::1701119375::1701119408::1::::<><>::
+Cinématique d'intro0075.png::CompressedTexture2D::3301696959081108383::1701119375::1701119408::1::::<><>::
+Cinématique d'intro0076.png::CompressedTexture2D::195103857641959901::1701119375::1701119408::1::::<><>::
+Cinématique d'intro0077.png::CompressedTexture2D::8913655196613982382::1701119375::1701119408::1::::<><>::
+Cinématique d'intro0119.png::CompressedTexture2D::1620826381928046710::1701119376::1701119408::1::::<><>::
+Cinématique d'intro0164.png::CompressedTexture2D::4528568791257898370::1701119376::1701119407::1::::<><>::
+Cinématique d'intro0266.png::CompressedTexture2D::4485464055397248264::1701119376::1701119407::1::::<><>::
+Cinématique d'intro0269.png::CompressedTexture2D::5461973040184180051::1701119376::1701119407::1::::<><>::
+Cinématique d'intro0346.png::CompressedTexture2D::8253833017043977154::1701119376::1701119407::1::::<><>::
+::res://art/title_scene/Soupir Géant/::1701369176
+soupir du géant0001.png::CompressedTexture2D::8929514237673216195::1701022420::1701022615::1::::<><>::
+soupir du géant0002.png::CompressedTexture2D::4456984291265483520::1701022420::1701022615::1::::<><>::
+soupir du géant0003.png::CompressedTexture2D::6966350090434407703::1701022420::1701022615::1::::<><>::
+soupir du géant0004.png::CompressedTexture2D::4817021274159990079::1701022420::1701022615::1::::<><>::
+soupir du géant0005.png::CompressedTexture2D::8794075032741573529::1701022420::1701022615::1::::<><>::
+soupir du géant0006.png::CompressedTexture2D::6752163568829961354::1701022420::1701022615::1::::<><>::
+soupir du géant0007.png::CompressedTexture2D::4387584840593318967::1701022420::1701022615::1::::<><>::
+soupir du géant0008.png::CompressedTexture2D::6903292146687509716::1701022420::1701022615::1::::<><>::
+soupir du géant0009.png::CompressedTexture2D::2915885185929091849::1701022420::1701022615::1::::<><>::
+soupir du géant0010.png::CompressedTexture2D::8962989775698800264::1701022420::1701022615::1::::<><>::
+soupir du géant0011.png::CompressedTexture2D::6444580164573694554::1701022420::1701022615::1::::<><>::
+soupir du géant0012.png::CompressedTexture2D::6915799574202663379::1701022420::1701022615::1::::<><>::
+soupir du géant0013.png::CompressedTexture2D::4002347838020958793::1701022420::1701022615::1::::<><>::
+soupir du géant0014.png::CompressedTexture2D::2179252042098172341::1701022420::1701022615::1::::<><>::
+soupir du géant0015.png::CompressedTexture2D::7492211621259410692::1701022420::1701022615::1::::<><>::
+soupir du géant0016.png::CompressedTexture2D::5487181873978906032::1701022421::1701022615::1::::<><>::
+soupir du géant0017.png::CompressedTexture2D::8544215977186836201::1701022421::1701022615::1::::<><>::
+soupir du géant0018.png::CompressedTexture2D::3142158690890835864::1701022421::1701022616::1::::<><>::
+soupir du géant0019.png::CompressedTexture2D::2504805317030257916::1701022421::1701022616::1::::<><>::
+soupir du géant0020.png::CompressedTexture2D::529390342363250333::1701022421::1701022616::1::::<><>::
+soupir du géant0021.png::CompressedTexture2D::2366364068822478711::1701022421::1701022616::1::::<><>::
+soupir du géant0022.png::CompressedTexture2D::7367909403839802038::1701022421::1701022616::1::::<><>::
+soupir du géant0023.png::CompressedTexture2D::7729987046735668166::1701022421::1701022616::1::::<><>::
+soupir du géant0024.png::CompressedTexture2D::1459791236963545749::1701022421::1701022616::1::::<><>::
+soupir du géant0025.png::CompressedTexture2D::165466117186452215::1701022421::1701022615::1::::<><>::
+soupir du géant0026.png::CompressedTexture2D::2259780174668457987::1701022421::1701022615::1::::<><>::
+soupir du géant0027.png::CompressedTexture2D::5711293989399245216::1701022421::1701022615::1::::<><>::
+soupir du géant0028.png::CompressedTexture2D::2168648742708440316::1701022421::1701022615::1::::<><>::
+soupir du géant0029.png::CompressedTexture2D::1553818551917111963::1701022421::1701022615::1::::<><>::
+soupir du géant0030.png::CompressedTexture2D::5001530173909519004::1701022421::1701022615::1::::<><>::
+soupir du géant0031.png::CompressedTexture2D::6248370615056261229::1701022421::1701022615::1::::<><>::
+soupir du géant0032.png::CompressedTexture2D::939693258237063555::1701022421::1701022615::1::::<><>::
+soupir du géant0033.png::CompressedTexture2D::8498564872093084364::1701022421::1701022615::1::::<><>::
+soupir du géant0034.png::CompressedTexture2D::6141674801091355148::1701022421::1701022615::1::::<><>::
+soupir du géant0035.png::CompressedTexture2D::4245183970477443481::1701022421::1701022615::1::::<><>::
+soupir du géant0036.png::CompressedTexture2D::7223885030220428354::1701022421::1701022614::1::::<><>::
+soupir du géant0037.png::CompressedTexture2D::1956336373404214205::1701022421::1701022614::1::::<><>::
+soupir du géant0038.png::CompressedTexture2D::1449091931619484787::1701022421::1701022614::1::::<><>::
+soupir du géant0039.png::CompressedTexture2D::3884639697793454580::1701022421::1701022614::1::::<><>::
+soupir du géant0040.png::CompressedTexture2D::3747664903585680483::1701022421::1701022614::1::::<><>::
+soupir du géant0041.png::CompressedTexture2D::6334180349388856540::1701022421::1701022614::1::::<><>::
+soupir du géant0042.png::CompressedTexture2D::7324811622206989218::1701022421::1701022614::1::::<><>::
+soupir du géant0043.png::CompressedTexture2D::9110814774083163437::1701022421::1701022614::1::::<><>::
+soupir du géant0044.png::CompressedTexture2D::457448080485036653::1701022421::1701022614::1::::<><>::
+soupir du géant0045.png::CompressedTexture2D::6871034050575687877::1701022421::1701022614::1::::<><>::
+soupir du géant0046.png::CompressedTexture2D::8223208626364596254::1701022421::1701022614::1::::<><>::
+soupir du géant0047.png::CompressedTexture2D::8113914023912965699::1701022421::1701022614::1::::<><>::
+soupir du géant0048.png::CompressedTexture2D::2451037047284955055::1701022421::1701022614::1::::<><>::
+soupir du géant0049.png::CompressedTexture2D::6726094668700072705::1701022421::1701022614::1::::<><>::
+soupir du géant0050.png::CompressedTexture2D::6000485263989604754::1701022421::1701022614::1::::<><>::
+soupir du géant0051.png::CompressedTexture2D::3814905376856193389::1701022421::1701022614::1::::<><>::
+soupir du géant0052.png::CompressedTexture2D::1981325369019504511::1701022421::1701022614::1::::<><>::
+soupir du géant0053.png::CompressedTexture2D::1626411757241458478::1701022421::1701022615::1::::<><>::
+soupir du géant0054.png::CompressedTexture2D::7031857043738546034::1701022421::1701022615::1::::<><>::
+soupir du géant0055.png::CompressedTexture2D::27501789653195315::1701022421::1701022615::1::::<><>::
+soupir du géant0056.png::CompressedTexture2D::8274530450252589131::1701022421::1701022615::1::::<><>::
+soupir du géant0057.png::CompressedTexture2D::4402276330843023376::1701022421::1701022615::1::::<><>::
+soupir du géant0058.png::CompressedTexture2D::7917235186021028885::1701022421::1701022615::1::::<><>::
+soupir du géant0059.png::CompressedTexture2D::7979358809565566373::1701022421::1701022615::1::::<><>::
+soupir du géant0060.png::CompressedTexture2D::1474691897188099279::1701022421::1701022615::1::::<><>::
+soupir du géant0061.png::CompressedTexture2D::3646707047948213872::1701022421::1701022615::1::::<><>::
+soupir du géant0062.png::CompressedTexture2D::5295485791465172070::1701022421::1701022614::1::::<><>::
+soupir du géant0063.png::CompressedTexture2D::8167713466564074235::1701022421::1701022615::1::::<><>::
+soupir du géant0064.png::CompressedTexture2D::1342603828216918758::1701022421::1701022614::1::::<><>::
+soupir du géant0065.png::CompressedTexture2D::6279771503986177738::1701022421::1701022614::1::::<><>::
+soupir du géant0066.png::CompressedTexture2D::4234560910062796131::1701022421::1701022614::1::::<><>::
+soupir du géant0067.png::CompressedTexture2D::8804459096479292322::1701022421::1701022614::1::::<><>::
+soupir du géant0068.png::CompressedTexture2D::7309127653568853143::1701022422::1701022614::1::::<><>::

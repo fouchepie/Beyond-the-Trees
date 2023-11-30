@@ -1,0 +1,29 @@
+[gd_scene load_steps=4 format=3 uid="uid://cal3sidk2ahcc"]
+
+[ext_resource type="Texture2D" uid="uid://uw3hfyngchbf" path="res://art/biome_1/scene_geant/Sapin vue géant.png" id="1_glikk"]
+[ext_resource type="Texture2D" uid="uid://dwgfj477ytaog" path="res://art/biome_1/scene_geant/Sapin vue géant highlighted.png" id="2_lg8hd"]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_4upfj"]
+radius = 28.0
+height = 98.0
+
+[node name="MiniFallingTree" type="Area2D"]
+z_index = 2
+y_sort_enabled = true
+scale = Vector2(0.8, 0.8)
+
+[node name="MiniTree" type="Sprite2D" parent="."]
+rotation = 1.5708
+texture = ExtResource("1_glikk")
+offset = Vector2(0, -50)
+
+[node name="MiniTreeHL" type="Sprite2D" parent="."]
+visible = false
+position = Vector2(50, 0)
+rotation = 1.5708
+texture = ExtResource("2_lg8hd")
+
+[node name="CollisionTree" type="CollisionShape2D" parent="."]
+position = Vector2(51.25, 1.90735e-06)
+rotation = 1.5708
+shape = SubResource("CapsuleShape2D_4upfj")

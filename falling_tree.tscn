@@ -1,0 +1,214 @@
+[gd_scene load_steps=47 format=3 uid="uid://dnh3sp0rgmg4r"]
+
+[ext_resource type="Texture2D" uid="uid://djc24qfxsrl3" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0001.png" id="1_ft8a8"]
+[ext_resource type="Script" path="res://falling_tree.gd" id="1_uu3d3"]
+[ext_resource type="Texture2D" uid="uid://duvvgdcipm3kr" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0002.png" id="2_7h1an"]
+[ext_resource type="Texture2D" uid="uid://bupm7owie7ri5" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0003.png" id="3_hkn8o"]
+[ext_resource type="Texture2D" uid="uid://b6ff68hree31b" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0004.png" id="4_swijn"]
+[ext_resource type="Texture2D" uid="uid://0uxdtiw4jr5u" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0005.png" id="5_314g1"]
+[ext_resource type="Texture2D" uid="uid://bt8py7pt7qmxw" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0006.png" id="6_4krnb"]
+[ext_resource type="Texture2D" uid="uid://ctui8r5cjogk" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0007.png" id="7_rd46u"]
+[ext_resource type="Texture2D" uid="uid://2sstr2dmle3p" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0008.png" id="8_2flff"]
+[ext_resource type="Texture2D" uid="uid://crtildla1ep1u" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0009.png" id="9_y35gs"]
+[ext_resource type="Texture2D" uid="uid://cild1bwafcy3t" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0010.png" id="10_06fbo"]
+[ext_resource type="Texture2D" uid="uid://k6mykfnjocww" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0011.png" id="11_q2ryd"]
+[ext_resource type="Texture2D" uid="uid://n7jduwi4rqna" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0012.png" id="12_vrn16"]
+[ext_resource type="Texture2D" uid="uid://ojmsmt2e23y2" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0013.png" id="13_2xcx8"]
+[ext_resource type="Texture2D" uid="uid://nfq8t6donkuc" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0014.png" id="14_3uh5m"]
+[ext_resource type="Texture2D" uid="uid://d3h4mxpx4ivci" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0015.png" id="15_fdxi1"]
+[ext_resource type="Texture2D" uid="uid://cyqwarmv4isy1" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0016.png" id="16_eeyeh"]
+[ext_resource type="Texture2D" uid="uid://ycg7dx8500a6" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0017.png" id="17_pm6yq"]
+[ext_resource type="Texture2D" uid="uid://clgy1y4tkgedo" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0018.png" id="18_xreot"]
+[ext_resource type="Texture2D" uid="uid://drf6lskqec5cs" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0019.png" id="19_pmtgn"]
+[ext_resource type="Texture2D" uid="uid://d0edhdo3qomi8" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0020.png" id="20_tcnwj"]
+[ext_resource type="Texture2D" uid="uid://boi0eoefknedh" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0021.png" id="21_sxmiu"]
+[ext_resource type="Texture2D" uid="uid://c50telgulhmcj" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0022.png" id="22_txrf7"]
+[ext_resource type="Texture2D" uid="uid://dl8783qb0sg11" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0023.png" id="23_04fu8"]
+[ext_resource type="Texture2D" uid="uid://qq2ej20f04if" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0024.png" id="24_ibuf5"]
+[ext_resource type="Texture2D" uid="uid://tag50vp870sa" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0025.png" id="25_v06v2"]
+[ext_resource type="Texture2D" uid="uid://dclw7eff8jme3" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0026.png" id="26_ons6f"]
+[ext_resource type="Texture2D" uid="uid://3wtqje4d1ned" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0027.png" id="27_gvg6r"]
+[ext_resource type="Texture2D" uid="uid://ch6cisvpbhojn" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0028.png" id="28_jns1x"]
+[ext_resource type="Texture2D" uid="uid://b1luyc0fn35eg" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0029.png" id="29_ra1l7"]
+[ext_resource type="Texture2D" uid="uid://kmufyjcktiyb" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0030.png" id="30_dh7qu"]
+[ext_resource type="Texture2D" uid="uid://b6uu12dwfyvm4" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0031.png" id="31_hdxml"]
+[ext_resource type="Texture2D" uid="uid://bre57v5acqnhp" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0032.png" id="32_d53o2"]
+[ext_resource type="Texture2D" uid="uid://cd285nx8amdpi" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0033.png" id="33_4cycq"]
+[ext_resource type="Texture2D" uid="uid://d23j2x0kn2b7n" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0034.png" id="34_o4e3o"]
+[ext_resource type="Texture2D" uid="uid://de203oreu8hpy" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0035.png" id="35_vwob7"]
+[ext_resource type="Texture2D" uid="uid://rdm0la30d1fs" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0036.png" id="36_p52wl"]
+[ext_resource type="Texture2D" uid="uid://bcufn36k0f8sx" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0037.png" id="37_e0yhq"]
+[ext_resource type="Texture2D" uid="uid://dt0kmgbhh33uu" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0038.png" id="38_vawfx"]
+[ext_resource type="Texture2D" uid="uid://pqs5lqxqhnh" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0039.png" id="39_624jj"]
+[ext_resource type="Texture2D" uid="uid://eh1qs138ylbi" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0040.png" id="40_tmrcs"]
+[ext_resource type="Texture2D" uid="uid://j3kq1xuttw7q" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0041.png" id="41_66qr3"]
+[ext_resource type="Texture2D" uid="uid://bkhafygnldcee" path="res://art/biome_1/scene_lutin/Falling tree/Tree falls0042.png" id="42_0lgte"]
+[ext_resource type="AudioStream" uid="uid://dtlqi14gyv1a0" path="res://art/biome_1/scene_lutin/audio/Arbre_qui_tombe.mp3" id="44_jwxq0"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_rj4bl"]
+size = Vector2(365, 418.75)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_0bthl"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_ft8a8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_7h1an")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_hkn8o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_swijn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_314g1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_4krnb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_rd46u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_2flff")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_y35gs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_06fbo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_q2ryd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_vrn16")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_2xcx8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_3uh5m")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_fdxi1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_eeyeh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_pm6yq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_xreot")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_pmtgn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_tcnwj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_sxmiu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_txrf7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_04fu8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_ibuf5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_v06v2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_ons6f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_gvg6r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_jns1x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_ra1l7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_dh7qu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_hdxml")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_d53o2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_4cycq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_o4e3o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_vwob7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_p52wl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_e0yhq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_vawfx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_624jj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_tmrcs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_66qr3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_0lgte")
+}],
+"loop": false,
+"name": &"falling_tree",
+"speed": 24.0
+}]
+
+[node name="FallingTree" type="Area2D"]
+z_index = 1
+y_sort_enabled = true
+scale = Vector2(4, 4)
+collision_layer = 8
+collision_mask = 9
+script = ExtResource("1_uu3d3")
+
+[node name="DetectionArea" type="CollisionShape2D" parent="."]
+position = Vector2(193.75, 11.625)
+shape = SubResource("RectangleShape2D_rj4bl")
+
+[node name="FallingTreeBody" type="StaticBody2D" parent="."]
+collision_layer = 4
+collision_mask = 5
+
+[node name="AnimatedTree" type="AnimatedSprite2D" parent="FallingTreeBody"]
+sprite_frames = SubResource("SpriteFrames_0bthl")
+animation = &"falling_tree"
+offset = Vector2(180, -180)
+
+[node name="CollisionTree" type="CollisionPolygon2D" parent="FallingTreeBody"]
+position = Vector2(177.75, -179.75)
+scale = Vector2(3.91, 3.91)
+polygon = PackedVector2Array(-36.509, 39.7698, 59.9105, 40.601, 59.2711, 43.1586, -38.2992, 44.1176)
+
+[node name="FallingTreeAudio" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("44_jwxq0")
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered" flags=6]

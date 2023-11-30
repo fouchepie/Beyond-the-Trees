@@ -1,0 +1,352 @@
+[gd_scene load_steps=68 format=3 uid="uid://3sum5tt4uujn"]
+
+[ext_resource type="Texture2D" uid="uid://dgc2lr8c1govf" path="res://art/end_cutscene/Fond_j.png" id="1_6l7ia"]
+[ext_resource type="Texture2D" uid="uid://esvtllxw42ec" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0001.png" id="2_nmali"]
+[ext_resource type="Texture2D" uid="uid://cwini16dk51k8" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0002.png" id="3_elheq"]
+[ext_resource type="Texture2D" uid="uid://caldovyw74nq3" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0003.png" id="4_dblba"]
+[ext_resource type="Texture2D" uid="uid://20j5bdseq76a" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0004.png" id="5_qdlqi"]
+[ext_resource type="Texture2D" uid="uid://c8dursmxa2vwi" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0005.png" id="6_6i2et"]
+[ext_resource type="Texture2D" uid="uid://biio0542uq36r" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0006.png" id="7_3hvbl"]
+[ext_resource type="Texture2D" uid="uid://byhita4u8gbm" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0007.png" id="8_s7vjh"]
+[ext_resource type="Texture2D" uid="uid://cdtga4m77tbdr" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0008.png" id="9_hl41j"]
+[ext_resource type="Texture2D" uid="uid://bwriyen5jfsgl" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0009.png" id="10_1viy6"]
+[ext_resource type="Texture2D" uid="uid://c11yingi8qnru" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0010.png" id="11_uc2tn"]
+[ext_resource type="Texture2D" uid="uid://el3f0wsberwn" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0011.png" id="12_psakv"]
+[ext_resource type="Texture2D" uid="uid://fuxg5cv6g86t" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0012.png" id="13_gj12u"]
+[ext_resource type="Texture2D" uid="uid://dhxhfpxltyd3e" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0013.png" id="14_ndoef"]
+[ext_resource type="Texture2D" uid="uid://dpythrked7qd8" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0014.png" id="15_wpaoh"]
+[ext_resource type="Texture2D" uid="uid://bmoh63nbmg1vs" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0015.png" id="16_2apgn"]
+[ext_resource type="Texture2D" uid="uid://cwj5b1m546uiw" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0016.png" id="17_58s7f"]
+[ext_resource type="Texture2D" uid="uid://ceu6rob6kloc1" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0017.png" id="18_n0ch7"]
+[ext_resource type="Texture2D" uid="uid://cnblaq1mnd6m3" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0018.png" id="19_ebmk8"]
+[ext_resource type="Texture2D" uid="uid://d2va4jbfepwdx" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0019.png" id="20_iuxns"]
+[ext_resource type="Texture2D" uid="uid://brxt7jcgo8gws" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0020.png" id="21_j5ed6"]
+[ext_resource type="Texture2D" uid="uid://d1e1o2452meyk" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0021.png" id="22_fdpfi"]
+[ext_resource type="Texture2D" uid="uid://n67e0httjxm" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0022.png" id="23_6fumf"]
+[ext_resource type="Texture2D" uid="uid://de7bm7g8u373u" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0023.png" id="24_dffew"]
+[ext_resource type="Texture2D" uid="uid://b8ed13luioup7" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0024.png" id="25_0mvge"]
+[ext_resource type="Texture2D" uid="uid://c0avxrwudhhn4" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0025.png" id="26_qc08h"]
+[ext_resource type="Texture2D" uid="uid://njh5t3r4y3uc" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0026.png" id="27_7vm2r"]
+[ext_resource type="Texture2D" uid="uid://bbl28xosf15gs" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0027.png" id="28_reghj"]
+[ext_resource type="Texture2D" uid="uid://dl7n8nu81jd34" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0028.png" id="29_1pusr"]
+[ext_resource type="Texture2D" uid="uid://cvxpxmynsly2e" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0029.png" id="30_8ic3g"]
+[ext_resource type="Texture2D" uid="uid://2cdwlcjkovbp" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0030.png" id="31_hr3pk"]
+[ext_resource type="Texture2D" uid="uid://strg3kdjga8p" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0031.png" id="32_2yjuh"]
+[ext_resource type="Texture2D" uid="uid://fj400bcb0r1v" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0032.png" id="33_6b368"]
+[ext_resource type="Texture2D" uid="uid://b5n85yussxvnv" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0033.png" id="34_vnd7f"]
+[ext_resource type="Texture2D" uid="uid://dfaygxktqhv2j" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0034.png" id="35_81yjt"]
+[ext_resource type="Texture2D" uid="uid://qo7vy3tathfy" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0035.png" id="36_bmn6h"]
+[ext_resource type="Texture2D" uid="uid://4jlkoufqxfud" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0036.png" id="37_tr61l"]
+[ext_resource type="Texture2D" uid="uid://cg853innrfitt" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0037.png" id="38_xbb1y"]
+[ext_resource type="Texture2D" uid="uid://roxbmd5i7bwl" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0038.png" id="39_xivik"]
+[ext_resource type="Texture2D" uid="uid://efaapfodadnt" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0039.png" id="40_gpn84"]
+[ext_resource type="Texture2D" uid="uid://h2rui2plu5ut" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0040.png" id="41_t0qml"]
+[ext_resource type="Texture2D" uid="uid://qx23pvqjpoa" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0041.png" id="42_0hsuv"]
+[ext_resource type="Texture2D" uid="uid://bwr07a5e5u837" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0042.png" id="43_4x6ub"]
+[ext_resource type="Texture2D" uid="uid://pef6flhr08af" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0043.png" id="44_r64c3"]
+[ext_resource type="Texture2D" uid="uid://b8vot131byyca" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0044.png" id="45_5x6n3"]
+[ext_resource type="Texture2D" uid="uid://ciy2kdu6igc3t" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0045.png" id="46_4rmsp"]
+[ext_resource type="Texture2D" uid="uid://b2h33p3rkdnr6" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0046.png" id="47_o00ma"]
+[ext_resource type="Texture2D" uid="uid://1y6sch03igt5" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0047.png" id="48_6g7bf"]
+[ext_resource type="Texture2D" uid="uid://bxf4wcphab6tl" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0048.png" id="49_6thf0"]
+[ext_resource type="Texture2D" uid="uid://dcm1tefort7ct" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0049.png" id="50_26mxr"]
+[ext_resource type="Texture2D" uid="uid://k7asyb0ipdiu" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0050.png" id="51_ejyv1"]
+[ext_resource type="Texture2D" uid="uid://b73vkdei1rlwf" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0051.png" id="52_2u0wv"]
+[ext_resource type="Texture2D" uid="uid://c0ukwvocrd4wp" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0052.png" id="53_dour5"]
+[ext_resource type="Texture2D" uid="uid://b06xeqoe2viwq" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0053.png" id="54_h02oq"]
+[ext_resource type="Texture2D" uid="uid://urocjugr0g3d" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0054.png" id="55_lf4ld"]
+[ext_resource type="Texture2D" uid="uid://bwgoliuvmde2u" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0055.png" id="56_hhjok"]
+[ext_resource type="Texture2D" uid="uid://bqu0t65axtfqq" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0056.png" id="57_ytuhu"]
+[ext_resource type="Texture2D" uid="uid://ciq8pj01oku1k" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0057.png" id="58_kanmt"]
+[ext_resource type="Texture2D" uid="uid://tvbsjibqxbfu" path="res://art/end_cutscene/Geant Lutin Fin/GEANT LUTIN FIN0058.png" id="59_2oqbv"]
+[ext_resource type="Texture2D" uid="uid://cepa1n68gw6cn" path="res://art/biome_1/scene_geant/Cloud passing by.png" id="60_6v3sf"]
+[ext_resource type="AudioStream" uid="uid://dyf5q0vsyrby8" path="res://art/title_scene/audio/MAP Game jam v3.mp3" id="61_vb3u5"]
+[ext_resource type="AudioStream" uid="uid://bjvpup0lp6pho" path="res://art/title_scene/audio/Vent et oiseaux game jam v2.mp3" id="62_sxqiy"]
+[ext_resource type="FontFile" uid="uid://cqibnuj1b8nbo" path="res://art/morris_roman_1/MorrisRomanBlackAlt.otf" id="63_a81is"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_ybyfp"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_nmali")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_elheq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_dblba")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_qdlqi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_6i2et")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_3hvbl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_s7vjh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_hl41j")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_1viy6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_uc2tn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_psakv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_gj12u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_ndoef")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_wpaoh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_2apgn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_58s7f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_n0ch7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_ebmk8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_iuxns")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_j5ed6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_fdpfi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_6fumf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_dffew")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_0mvge")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_qc08h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_7vm2r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_reghj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_1pusr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_8ic3g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("31_hr3pk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_2yjuh")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_6b368")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_vnd7f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_81yjt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_bmn6h")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_tr61l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_xbb1y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_xivik")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_gpn84")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_t0qml")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_0hsuv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_4x6ub")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_r64c3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_5x6n3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_4rmsp")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_o00ma")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_6g7bf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_6thf0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_26mxr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_ejyv1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_2u0wv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_dour5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_h02oq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_lf4ld")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_hhjok")
+}, {
+"duration": 1.0,
+"texture": ExtResource("57_ytuhu")
+}, {
+"duration": 1.0,
+"texture": ExtResource("58_kanmt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("59_2oqbv")
+}],
+"loop": true,
+"name": &"elf_and_giant",
+"speed": 24.0
+}]
+
+[sub_resource type="Animation" id="Animation_7l7mb"]
+resource_name = "cloud_back"
+length = 10.0
+loop_mode = 1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("BackCloud:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 10),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector2(2579, 1544), Vector2(-1185, 162)]
+}
+
+[sub_resource type="Animation" id="Animation_c0oxw"]
+resource_name = "cloud_front"
+length = 8.0
+loop_mode = 1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("FrontCloud:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 8),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [Vector2(1495, 1865), Vector2(-1103, 268)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_3bt0i"]
+_data = {
+"cloud_back": SubResource("Animation_7l7mb"),
+"cloud_front": SubResource("Animation_c0oxw")
+}
+
+[node name="EndScene" type="Node2D"]
+
+[node name="Background" type="Sprite2D" parent="."]
+texture = ExtResource("1_6l7ia")
+centered = false
+
+[node name="EndAnimation" type="AnimatedSprite2D" parent="."]
+z_index = 2
+y_sort_enabled = true
+position = Vector2(453, 110)
+sprite_frames = SubResource("SpriteFrames_ybyfp")
+animation = &"elf_and_giant"
+autoplay = "elf_and_giant"
+centered = false
+
+[node name="FrontCloud" type="Sprite2D" parent="."]
+z_index = 3
+y_sort_enabled = true
+position = Vector2(1495, 1865)
+scale = Vector2(2, 2)
+texture = ExtResource("60_6v3sf")
+
+[node name="FrontCloudAnimation" type="AnimationPlayer" parent="FrontCloud"]
+root_node = NodePath("../..")
+libraries = {
+"": SubResource("AnimationLibrary_3bt0i")
+}
+autoplay = "cloud_front"
+
+[node name="BackCloud" type="Sprite2D" parent="."]
+z_index = 1
+y_sort_enabled = true
+position = Vector2(2579, 1544)
+rotation = -3.14159
+scale = Vector2(2, 2)
+texture = ExtResource("60_6v3sf")
+
+[node name="BackCloudAnimation" type="AnimationPlayer" parent="BackCloud"]
+root_node = NodePath("../..")
+libraries = {
+"": SubResource("AnimationLibrary_3bt0i")
+}
+autoplay = "cloud_back"
+
+[node name="MusicTitle" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("61_vb3u5")
+autoplay = true
+
+[node name="AtmosphereTitle" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("62_sxqiy")
+
+[node name="Thanks" type="Label" parent="."]
+z_index = 2
+y_sort_enabled = true
+offset_left = 67.0
+offset_top = 261.0
+offset_right = 1004.0
+offset_bottom = 394.0
+theme_override_colors/font_color = Color(1, 1, 1, 1)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 0.494118)
+theme_override_constants/outline_size = 25
+theme_override_fonts/font = ExtResource("63_a81is")
+theme_override_font_sizes/font_size = 125
+text = "Thanks for playing"
